@@ -1,0 +1,14 @@
+{
+  "name": "gpsreader",
+  "version": "1.0.0",
+  "description": "This is NVMEA data parser to read GPS from Sierra module running on com20 port for MW810 and send again for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rais helmy",
+  "license": "MIT",
+  "dependencies": {
+    "gps-nmea-reader": "^1.0.1"
+  }
+}
